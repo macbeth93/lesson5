@@ -5,8 +5,6 @@ my_f = open("hw5.2.txt", "r")
 content = my_f.readlines()
 # content = int(content)
 print("Число строк", len(content))
-# print(content)
-# print(content[0])
 print(content)
 element_list = ()
 
